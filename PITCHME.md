@@ -16,7 +16,7 @@ https://gitpitch.com/kenjiPan/MAC
 
 ### 手の動き
 +++
-###### 数学
+# 数学
 +++
 ## ピアノ 
 ---
